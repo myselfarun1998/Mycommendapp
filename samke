@@ -1,0 +1,27 @@
+   {
+        // <div>
+        //   <h1 className="title">My commend App</h1>
+        //   <SingleCommend
+        //     name="john deo"
+        //     date="just now"
+        //     commend="very nice"
+        //     img={profile1}
+        //   />
+        //   <SingleCommend
+        //     name="jack"
+        //     date="12 minutes ago"
+        //     commend="awesome"
+        //     img={profile2}
+        //   />
+        //   <SingleCommend
+        //     name="marry rose"
+        //     date="15 mintutes ago"
+        //     commend="quite amazing"
+        //     img={profile3}
+        //   />
+        // </div>
+        <footer/>
+        <header/>
+        <home/>
+
+      }
